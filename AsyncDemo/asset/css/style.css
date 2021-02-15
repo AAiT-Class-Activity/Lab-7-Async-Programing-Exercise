@@ -13,6 +13,7 @@ h1 {
   box-shadow: inset 0.125em 0.25em 0.5em #0005, -0.25em -0.5em 0.5em #fffc,
     0 0 0.0625em 0.5em #777, 0 0 0.0625em 0.5625em #000,
     0.125em 0.25em 0.5em 0.5em #0004;
+    background-color: rgb(100, 112, 112);
 }
 
 #clock *,
